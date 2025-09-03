@@ -7,6 +7,7 @@ This is the first data analysis project that I'm publishing in Github
 Here are the links to the interactive visualization in Tableau:
 
 ![Dashborad 1:](https://public.tableau.com/views/BikesharingrentalsWashingtonD_C_USA/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
----
+
 ![Dashboard 2:](https://public.tableau.com/views/Bikesharingrentalsclimaticfactors/Bikesharingrentalspart2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
- *Note that the first sheet in Dashboard 2 doesn't show up in the image file but it's fine if you reached the interactive version*
+
+[^1] *Note that the first sheet in Dashboard 2 doesn't show up in the image file but it's fine if you reached the interactive version*
